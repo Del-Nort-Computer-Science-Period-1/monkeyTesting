@@ -1,0 +1,11 @@
+2019-09-03T16:08:25.900Z - info: [ui] [AppStore] loading 1 repositories from store
+2019-09-03T16:08:25.901Z - info: [ui] [AppStore] found account: kolinbilly (Colin Szeto)
+2019-09-03T16:08:25.901Z - info: [ui] [AppStore] found account: kolinbilly (Colin Szeto)
+2019-09-03T16:08:27.801Z - info: [ui] launching: 2.1.0 (Mac OS 10.14.6)
+2019-09-03T16:08:27.803Z - info: [ui] execPath: '/Applications/GitHub Desktop.app/Contents/Frameworks/GitHub Desktop Helper.app/Contents/MacOS/GitHub Desktop Helper'
+2019-09-03T16:08:27.803Z - info: [ui] Stats reported.
+2019-09-03T16:08:27.907Z - info: [ui] Executing installGlobalLFSFilter: git lfs install --skip-repo (took 1.031s)
+2019-09-03T16:08:28.285Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.436s)
+2019-09-03T16:08:28.286Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 2.247s)
+2019-09-03T16:08:55.814Z - error: [ui] Error checking for updates
+Error: The operation couldn’t be completed. (OSStatus error -60006.)

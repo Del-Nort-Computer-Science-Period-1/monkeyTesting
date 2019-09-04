@@ -1,0 +1,39 @@
+Aug 28 08:45:01 00-63122 com.apple.CoreSimulator.CoreSimulatorService[5152] <Notice>: com.apple.CoreSimulator.CoreSimulatorService 587.35 starting.
+Aug 28 08:45:02 00-63122 CoreSimulatorService[5152] <Warning>: Device C8E7B29F-F62F-42B3-9252-C0E7BC337B85 encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:03 00-63122 CoreSimulatorService[5152] <Warning>: Device BA02AC64-1D34-40A4-A7D9-C92FB40D18CE encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:03 00-63122 CoreSimulatorService[5152] <Warning>: Device 745411B7-E5BA-4FA7-B483-587C8AA827F8 encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:03 00-63122 CoreSimulatorService[5152] <Warning>: Device 00BE6F05-D32F-4CBD-A864-33762E8FB479 encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:04 00-63122 CoreSimulatorService[5152] <Warning>: Device A7F4E802-0772-4878-A6E9-07162E5714F5 encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:04 00-63122 CoreSimulatorService[5152] <Warning>: Device 5831D558-9EF0-4E33-8A4D-1807D1D48A83 encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:04 00-63122 CoreSimulatorService[5152] <Warning>: Device 44534D99-B25C-43ED-B12A-E528181E1CDB encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:04 00-63122 CoreSimulatorService[5152] <Warning>: Device 5C2D092F-FC0C-4631-B724-F26C2E505270 encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:04 00-63122 CoreSimulatorService[5152] <Warning>: Device 834F5F57-D221-4261-9FD0-F5363AAFB386 encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:04 00-63122 CoreSimulatorService[5152] <Warning>: Device 2897D38F-D8CA-4753-8DD7-06CC1793B142 encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:04 00-63122 CoreSimulatorService[5152] <Warning>: Device 55895880-2EE3-4F8E-88CF-0FA28A639697 encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:04 00-63122 CoreSimulatorService[5152] <Warning>: Device 438B1D2B-0D49-4177-BF3B-E1ED847E3E3D encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:04 00-63122 CoreSimulatorService[5152] <Warning>: Device AE233EDB-A9DD-41BD-A9D1-0C40DE252D2E encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:04 00-63122 CoreSimulatorService[5152] <Warning>: Device 6CBF99E1-8C68-49A1-8011-875AE9397A81 encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:04 00-63122 CoreSimulatorService[5152] <Warning>: Device 38B102FD-BA75-44B9-91BB-71CD7E1FA193 encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:05 00-63122 CoreSimulatorService[5152] <Warning>: Device 93D3AF96-CDBE-4141-AD19-C158B85F4BCB encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:05 00-63122 CoreSimulatorService[5152] <Warning>: Device 6222D0C6-F509-4BE4-B590-C122ABE27459 encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:05 00-63122 CoreSimulatorService[5152] <Warning>: Device CDBA2DFE-6899-4215-BE5E-580D567CDCC5 encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:05 00-63122 CoreSimulatorService[5152] <Warning>: Device 2FF32D62-F4CB-4539-A1C1-D88467A7CEEC encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:05 00-63122 CoreSimulatorService[5152] <Warning>: Device D1472C38-8D0A-4AB9-9BC0-76B0923B9597 encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:05 00-63122 CoreSimulatorService[5152] <Warning>: Device A7FE555C-8EA2-4608-A1D2-4481DEAF8615 encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:05 00-63122 CoreSimulatorService[5152] <Warning>: Device 2EF14115-6543-4092-AAED-3C3B1ACC762C encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:05 00-63122 CoreSimulatorService[5152] <Warning>: Device B211D405-4AB4-4F1D-9B76-31CDB172A8BA encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:05 00-63122 CoreSimulatorService[5152] <Warning>: Device 553DCBEB-404D-4565-AF33-7C10B9A05A5A encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:05 00-63122 CoreSimulatorService[5152] <Warning>: Device 25EAEA4D-F5AF-4146-9465-CCDFA4870C93 encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:06 00-63122 CoreSimulatorService[5152] <Warning>: Device E3D1A332-A96D-4BE8-981F-D059DBA95FC9 encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:06 00-63122 CoreSimulatorService[5152] <Warning>: Device 050150D1-C6F7-4734-BA0F-607FB6693ED2 encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:06 00-63122 CoreSimulatorService[5152] <Warning>: Device 13BC4A7A-3776-41EA-A9D3-08FEC0CFEF86 encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:06 00-63122 CoreSimulatorService[5152] <Warning>: Device 4BD94187-3104-4A53-835C-971EF27F1CE8 encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:07 00-63122 CoreSimulatorService[5152] <Warning>: Device 8A1C9087-3F3E-4E93-84D0-7ADD22858458 encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:07 00-63122 CoreSimulatorService[5152] <Warning>: Device 53E7A1D1-11BC-4F9A-9B62-A515B9D47BA2 encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:07 00-63122 CoreSimulatorService[5152] <Warning>: Device 8B466ABA-048A-4D27-9151-8CEA67527222 encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:07 00-63122 CoreSimulatorService[5152] <Warning>: Device 6671BDD5-1C05-4AEB-B9E7-5D868ADF17A0 encountered in creation state at launch.  The device will be re-created.
+Aug 28 08:45:07 00-63122 CoreSimulatorService[5152] <Warning>: Device E76EBC26-50B2-4CD1-B66C-6B68DD8EC0ED encountered in creation state at launch.  The device will be re-created.
+Aug 29 08:01:41 00-63122 CoreSimulatorService[1565] <Notice>: com.apple.CoreSimulator.CoreSimulatorService 587.35 starting.
+Aug 30 08:09:52 00-63122 CoreSimulatorService[2117] <Notice>: com.apple.CoreSimulator.CoreSimulatorService 587.35 starting.
+Sep  3 09:09:04 00-63122 CoreSimulatorService[11421] <Notice>: com.apple.CoreSimulator.CoreSimulatorService 587.35 starting.
+Sep  4 08:16:03 00-63122 CoreSimulatorService[2870] <Notice>: com.apple.CoreSimulator.CoreSimulatorService 587.35 starting.

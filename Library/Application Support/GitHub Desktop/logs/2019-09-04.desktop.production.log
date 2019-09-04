@@ -1,0 +1,36 @@
+2019-09-04T15:05:40.593Z - info: [ui] [AppStore] loading 1 repositories from store
+2019-09-04T15:05:40.594Z - info: [ui] [AppStore] found account: kolinbilly (Colin Szeto)
+2019-09-04T15:05:40.594Z - info: [ui] [AppStore] found account: kolinbilly (Colin Szeto)
+2019-09-04T15:05:40.953Z - info: [ui] [BranchPruner] Last prune took place in an hour - skipping
+2019-09-04T15:05:42.446Z - info: [ui] launching: 2.1.0 (Mac OS 10.14.6)
+2019-09-04T15:05:42.447Z - info: [ui] execPath: '/Applications/GitHub Desktop.app/Contents/Frameworks/GitHub Desktop Helper.app/Contents/MacOS/GitHub Desktop Helper'
+2019-09-04T15:05:42.602Z - info: [ui] Executing installGlobalLFSFilter: git lfs install --skip-repo (took 1.091s)
+2019-09-04T15:05:43.161Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 2.385s)
+2019-09-04T15:05:43.162Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.685s)
+2019-09-04T15:05:48.754Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: Testing - kolinbilly (has token)
+2019-09-04T15:05:50.514Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune github-desktop-masonparsons (took 1.741s)
+2019-09-04T15:05:50.926Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: Testing - kolinbilly (has token)
+2019-09-04T15:05:51.233Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: Testing - kolinbilly (has token)
+2019-09-04T15:05:51.445Z - info: [ui] [Timing] Action 'checkout pull request from list' for 'del-nort-computer-science-period-1/Testing' took 2.708s
+2019-09-04T15:05:56.678Z - error: [ui] Error checking for updates
+Error: The operation couldn’t be completed. (OSStatus error -60006.)
+2019-09-04T15:08:07.192Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: Testing - kolinbilly (has token)
+2019-09-04T15:08:07.324Z - info: [ui] [Timing] Action 'checkout branch from list' for 'del-nort-computer-science-period-1/Testing' took 0.119s
+2019-09-04T15:10:02.278Z - info: [ui] [BranchPruner] Last prune took place in an hour - skipping
+2019-09-04T15:10:24.559Z - info: [main] opening in browser: https://github.com/Del-Nort-Computer-Science-Period-1/Testing
+2019-09-04T15:11:01.772Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: Testing - kolinbilly (has token)
+2019-09-04T15:11:01.945Z - info: [ui] [Timing] Action 'create branch' for 'del-nort-computer-science-period-1/Testing' took 0.274s
+2019-09-04T15:11:09.800Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: Testing - kolinbilly (has token)
+2019-09-04T15:11:14.683Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin mokeyCode --set-upstream --progress (took 4.851s)
+2019-09-04T15:11:24.320Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: Testing - kolinbilly (has token)
+2019-09-04T15:11:24.487Z - info: [ui] [Timing] Action 'checkout branch from list' for 'del-nort-computer-science-period-1/Testing' took 0.158s
+2019-09-04T15:23:07.575Z - info: [ui] [AppStore] adding repository at /Users/1850970 to store
+2019-09-04T15:23:10.973Z - info: [ui] Executing isUsingLFS: git lfs track (took 3.378s)
+2019-09-04T15:23:15.927Z - info: [ui] [BranchPruner] Pruning 0 branches that have been merged into the default branch, master (7f0e21defd2c742e8c6a64651b0515100b66ae05), from 'Testing
+2019-09-04T15:23:27.639Z - info: [ui] [AppStore] adding repository at /Users/1850970 to store
+2019-09-04T15:23:30.092Z - info: [ui] [BranchPruner] Pruning 0 branches that have been merged into the default branch, master (7f0e21defd2c742e8c6a64651b0515100b66ae05), from 'Testing
+2019-09-04T15:23:31.862Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2019-09-04T15:23:32.068Z - info: [ui] Executing getAuthorIdentity: git var GIT_AUTHOR_IDENT (took 1.921s)
+2019-09-04T15:23:34.783Z - info: [ui] [BranchPruner] Pruning 0 branches that have been merged into the default branch, master (7f0e21defd2c742e8c6a64651b0515100b66ae05), from 'Testing
+2019-09-04T15:23:43.284Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2019-09-04T15:25:06.901Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping

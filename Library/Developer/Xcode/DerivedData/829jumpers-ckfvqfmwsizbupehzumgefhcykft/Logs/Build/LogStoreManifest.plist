@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>3B29FEB5-7184-412C-81AF-F32A2F6628D6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3B29FEB5-7184-412C-81AF-F32A2F6628D6.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>829jumpers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>829jumpers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build 829jumpers</string>
+			<key>timeStartedRecording</key>
+			<real>588785750.38825297</real>
+			<key>timeStoppedRecording</key>
+			<real>588785750.77460504</real>
+			<key>title</key>
+			<string>Build 829jumpers</string>
+			<key>uniqueIdentifier</key>
+			<string>3B29FEB5-7184-412C-81AF-F32A2F6628D6</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

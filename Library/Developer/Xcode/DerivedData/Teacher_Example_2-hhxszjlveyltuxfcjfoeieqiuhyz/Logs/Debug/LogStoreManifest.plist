@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>5955EB8F-8F0A-4C2A-A08D-CC38FA4BB22C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5955EB8F-8F0A-4C2A-A08D-CC38FA4BB22C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Teacher Example 2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Teacher Example 2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Teacher Example 2</string>
+			<key>timeStartedRecording</key>
+			<real>589221321.88892305</real>
+			<key>timeStoppedRecording</key>
+			<real>589221328.90698397</real>
+			<key>title</key>
+			<string>Debug Teacher Example 2</string>
+			<key>uniqueIdentifier</key>
+			<string>5955EB8F-8F0A-4C2A-A08D-CC38FA4BB22C</string>
+		</dict>
+		<key>AAD9E8B2-F360-4D6D-97D7-1C967B3D7822</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AAD9E8B2-F360-4D6D-97D7-1C967B3D7822.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Teacher Example 2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Teacher Example 2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Teacher Example 2</string>
+			<key>timeStartedRecording</key>
+			<real>589221336.18587506</real>
+			<key>timeStoppedRecording</key>
+			<real>589221337.42312098</real>
+			<key>title</key>
+			<string>Debug Teacher Example 2</string>
+			<key>uniqueIdentifier</key>
+			<string>AAD9E8B2-F360-4D6D-97D7-1C967B3D7822</string>
+		</dict>
+		<key>B59276C8-1FA5-476A-8ED2-75693BC194B6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B59276C8-1FA5-476A-8ED2-75693BC194B6.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Teacher Example 2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Teacher Example 2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Teacher Example 2</string>
+			<key>timeStartedRecording</key>
+			<real>589221907.49691904</real>
+			<key>timeStoppedRecording</key>
+			<real>589221908.70601106</real>
+			<key>title</key>
+			<string>Debug Teacher Example 2</string>
+			<key>uniqueIdentifier</key>
+			<string>B59276C8-1FA5-476A-8ED2-75693BC194B6</string>
+		</dict>
+		<key>B6970065-28FF-466B-935E-8E49B9FF43AB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B6970065-28FF-466B-935E-8E49B9FF43AB.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Teacher Example 2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Teacher Example 2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Teacher Example 2</string>
+			<key>timeStartedRecording</key>
+			<real>589221566.63723099</real>
+			<key>timeStoppedRecording</key>
+			<real>589221567.86342001</real>
+			<key>title</key>
+			<string>Debug Teacher Example 2</string>
+			<key>uniqueIdentifier</key>
+			<string>B6970065-28FF-466B-935E-8E49B9FF43AB</string>
+		</dict>
+		<key>D327F737-4A9E-4898-837D-FD8ECA2B51F1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D327F737-4A9E-4898-837D-FD8ECA2B51F1.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Teacher Example 2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Teacher Example 2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Teacher Example 2</string>
+			<key>timeStartedRecording</key>
+			<real>589221386.11024296</real>
+			<key>timeStoppedRecording</key>
+			<real>589221387.36466801</real>
+			<key>title</key>
+			<string>Debug Teacher Example 2</string>
+			<key>uniqueIdentifier</key>
+			<string>D327F737-4A9E-4898-837D-FD8ECA2B51F1</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

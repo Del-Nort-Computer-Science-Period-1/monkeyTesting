@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>35896AF2-DAE8-47B1-9D1D-3FD4A19F6DA3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>35896AF2-DAE8-47B1-9D1D-3FD4A19F6DA3.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Teacher Example 2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Teacher Example 2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Teacher Example 2</string>
+			<key>timeStartedRecording</key>
+			<real>589222377.63732004</real>
+			<key>timeStoppedRecording</key>
+			<real>589222377.74280095</real>
+			<key>title</key>
+			<string>Build Teacher Example 2</string>
+			<key>uniqueIdentifier</key>
+			<string>35896AF2-DAE8-47B1-9D1D-3FD4A19F6DA3</string>
+		</dict>
+		<key>4BA329F4-A97D-43E9-BE70-0B6FA8254B88</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4BA329F4-A97D-43E9-BE70-0B6FA8254B88.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Teacher Example 2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Teacher Example 2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Teacher Example 2</string>
+			<key>timeStartedRecording</key>
+			<real>589222462.26115203</real>
+			<key>timeStoppedRecording</key>
+			<real>589222462.42427802</real>
+			<key>title</key>
+			<string>Build Teacher Example 2</string>
+			<key>uniqueIdentifier</key>
+			<string>4BA329F4-A97D-43E9-BE70-0B6FA8254B88</string>
+		</dict>
+		<key>781925BE-4DD0-4627-B649-F8314DF10086</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>781925BE-4DD0-4627-B649-F8314DF10086.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Teacher Example 2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Teacher Example 2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Teacher Example 2</string>
+			<key>timeStartedRecording</key>
+			<real>589221566.301301</real>
+			<key>timeStoppedRecording</key>
+			<real>589221566.66240394</real>
+			<key>title</key>
+			<string>Build Teacher Example 2</string>
+			<key>uniqueIdentifier</key>
+			<string>781925BE-4DD0-4627-B649-F8314DF10086</string>
+		</dict>
+		<key>7D5405B5-973A-450D-9BB4-4519D8866F19</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7D5405B5-973A-450D-9BB4-4519D8866F19.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Teacher Example 2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Teacher Example 2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Teacher Example 2</string>
+			<key>timeStartedRecording</key>
+			<real>589221335.94928098</real>
+			<key>timeStoppedRecording</key>
+			<real>589221336.20255196</real>
+			<key>title</key>
+			<string>Build Teacher Example 2</string>
+			<key>uniqueIdentifier</key>
+			<string>7D5405B5-973A-450D-9BB4-4519D8866F19</string>
+		</dict>
+		<key>8BF9FDD8-1DCF-4823-A9EA-2E5B0BE5F065</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8BF9FDD8-1DCF-4823-A9EA-2E5B0BE5F065.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Teacher Example 2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Teacher Example 2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Teacher Example 2</string>
+			<key>timeStartedRecording</key>
+			<real>589221385.83714402</real>
+			<key>timeStoppedRecording</key>
+			<real>589221386.12959099</real>
+			<key>title</key>
+			<string>Build Teacher Example 2</string>
+			<key>uniqueIdentifier</key>
+			<string>8BF9FDD8-1DCF-4823-A9EA-2E5B0BE5F065</string>
+		</dict>
+		<key>9BFE690B-A534-4D9D-B6AF-591971046796</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9BFE690B-A534-4D9D-B6AF-591971046796.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Teacher Example 2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Teacher Example 2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Teacher Example 2</string>
+			<key>timeStartedRecording</key>
+			<real>589221393.46911204</real>
+			<key>timeStoppedRecording</key>
+			<real>589221393.77974999</real>
+			<key>title</key>
+			<string>Build Teacher Example 2</string>
+			<key>uniqueIdentifier</key>
+			<string>9BFE690B-A534-4D9D-B6AF-591971046796</string>
+		</dict>
+		<key>9CC81CB5-F19D-4500-9F17-22D2DA555BE0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9CC81CB5-F19D-4500-9F17-22D2DA555BE0.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Teacher Example 2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Teacher Example 2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Teacher Example 2</string>
+			<key>timeStartedRecording</key>
+			<real>589222576.24529696</real>
+			<key>timeStoppedRecording</key>
+			<real>589222576.38143897</real>
+			<key>title</key>
+			<string>Build Teacher Example 2</string>
+			<key>uniqueIdentifier</key>
+			<string>9CC81CB5-F19D-4500-9F17-22D2DA555BE0</string>
+		</dict>
+		<key>A41B052B-67A3-44D5-BE3E-18E740052B13</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A41B052B-67A3-44D5-BE3E-18E740052B13.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Teacher Example 2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Teacher Example 2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Teacher Example 2</string>
+			<key>timeStartedRecording</key>
+			<real>589221907.17323101</real>
+			<key>timeStoppedRecording</key>
+			<real>589221907.51347995</real>
+			<key>title</key>
+			<string>Build Teacher Example 2</string>
+			<key>uniqueIdentifier</key>
+			<string>A41B052B-67A3-44D5-BE3E-18E740052B13</string>
+		</dict>
+		<key>CAEF8D97-0CE6-4BD3-8DF9-14F8AA6837AF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CAEF8D97-0CE6-4BD3-8DF9-14F8AA6837AF.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Teacher Example 2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Teacher Example 2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Teacher Example 2</string>
+			<key>timeStartedRecording</key>
+			<real>589221321.48785996</real>
+			<key>timeStoppedRecording</key>
+			<real>589221321.90740097</real>
+			<key>title</key>
+			<string>Build Teacher Example 2</string>
+			<key>uniqueIdentifier</key>
+			<string>CAEF8D97-0CE6-4BD3-8DF9-14F8AA6837AF</string>
+		</dict>
+		<key>D121ACC0-25DC-4909-8030-462B053FF50D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D121ACC0-25DC-4909-8030-462B053FF50D.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Teacher Example 2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Teacher Example 2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Teacher Example 2</string>
+			<key>timeStartedRecording</key>
+			<real>589222348.48510897</real>
+			<key>timeStoppedRecording</key>
+			<real>589222348.69362795</real>
+			<key>title</key>
+			<string>Build Teacher Example 2</string>
+			<key>uniqueIdentifier</key>
+			<string>D121ACC0-25DC-4909-8030-462B053FF50D</string>
+		</dict>
+		<key>E4D91C27-4AD5-47FB-B448-57EBE72410EF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E4D91C27-4AD5-47FB-B448-57EBE72410EF.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Teacher Example 2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Teacher Example 2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Teacher Example 2</string>
+			<key>timeStartedRecording</key>
+			<real>589222622.89329195</real>
+			<key>timeStoppedRecording</key>
+			<real>589222623.20911801</real>
+			<key>title</key>
+			<string>Build Teacher Example 2</string>
+			<key>uniqueIdentifier</key>
+			<string>E4D91C27-4AD5-47FB-B448-57EBE72410EF</string>
+		</dict>
+		<key>F858BC3B-6EE0-4A01-A6BE-5ADBF10AF9BC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F858BC3B-6EE0-4A01-A6BE-5ADBF10AF9BC.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Teacher Example 2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Teacher Example 2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Teacher Example 2</string>
+			<key>timeStartedRecording</key>
+			<real>589222365.17328203</real>
+			<key>timeStoppedRecording</key>
+			<real>589222365.31990302</real>
+			<key>title</key>
+			<string>Build Teacher Example 2</string>
+			<key>uniqueIdentifier</key>
+			<string>F858BC3B-6EE0-4A01-A6BE-5ADBF10AF9BC</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
